@@ -1,2 +1,2 @@
-# edocnikufecin.github.io
+# edocnikcufecin.github.io
 Naturoute website.
